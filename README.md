@@ -48,3 +48,8 @@ Clone the repository:
 ```bash
 git clone https://github.com/akkenadivyadurga-netizen/Cyber-Attack-Detection.git
 cd Cyber-Attack-Detection
+cd Cyber-Attack-Detection
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
