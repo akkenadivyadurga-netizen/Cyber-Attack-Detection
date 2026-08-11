@@ -37,36 +37,3 @@ Cyber-Attack-Detection/
 ├── requirements.txt
 ├── image.png
 └── README.md
-
-## 🛠️ Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Joblib
-- Streamlit
-- Machine Learning
-- ## 📂 Project Structure
-
-```text
-Cyber-Attack-Detection/
-│
-├── app.py
-├── predict.py
-├── train_model.py
-├── test_dataset.py
-├── requirements.txt
-├── image.png
-└── README.md
-
-## 📊 Dataset
-
-The project uses the CIC-IDS-2017 dataset, which contains network traffic data including benign traffic and different types of cyber attacks.
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/akkenadivyadurga-netizen/Cyber-Attack-Detection.git
-cd Cyber-Attack-Detection
